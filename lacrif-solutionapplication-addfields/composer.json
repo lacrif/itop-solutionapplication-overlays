@@ -1,0 +1,16 @@
+{
+  "config": {
+    "classmap-authoritative": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Lacrif\\iTop\\Extension\\": "src"
+    }
+  },
+  "name": "lacrif/lacrif-solutionapplication-addfields",
+  "type": "itop-extension",
+  "description": "Lacrif Add Fields Application Solution",
+  "require": {
+    "composer-runtime-api": "^2.0"
+  }
+}
