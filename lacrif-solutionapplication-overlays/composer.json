@@ -9,7 +9,7 @@
   },
   "name": "lacrif/lacrif-solutionapplication-overlays",
   "type": "itop-extension",
-  "description": "Lacrif Add Fields Application Solution",
+  "description": "Lacrif - Customize Application Solution",
   "require": {
     "composer-runtime-api": "^2.0"
   }
