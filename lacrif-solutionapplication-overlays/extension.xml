@@ -5,5 +5,5 @@
   <label><![CDATA[Lacrif - Customize Application Solution]]></label>
   <description><![CDATA[Lacrif - Customize Application Solution]]></description>
   <mandatory>false</mandatory>
-  <more_info_url></more_info_url>
+  <more_info_url>https://github.com/lacrif/itop-solutionapplication-overlays</more_info_url>
 </extension>
