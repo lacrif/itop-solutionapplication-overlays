@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension format="1.0">
-  <extension_code>lacrif-solutionapplication-addfields</extension_code>
+  <extension_code>lacrif-solutionapplication-overlays</extension_code>
   <version>1.0.0</version>
   <label><![CDATA[Lacrif Add Fields Application Solution]]></label>
   <description><![CDATA[Put here a longer description of your extension]]></description>
